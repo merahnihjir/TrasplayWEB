@@ -224,3 +224,16 @@ nav {
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     transition: all 0.3s linear
 }
+
+.trasplay-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        .trasplay-container img {
+            max-width: 100%;
+            height: auto;
+}
